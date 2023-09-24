@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Zhonghao Liu
-// Email: zliu882@wisc.edu
-// Notes to Grader: none
-
 /**
  * This is a key-value pair. See CollectionOfBooks for usages.
  * In this program, we consider key and value as String as default.

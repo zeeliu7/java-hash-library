@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Zhonghao Liu
-// Email: zliu882@wisc.edu
-// Notes to Grader: this program implements the MapInterface interface
-
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.lang.Math;

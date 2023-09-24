@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Zhonghao Liu
-// Email: zliu882@wisc.edu
-// Notes to Grader: This is the core back end program. Imports data from BookList.txt
-
 import java.util.ArrayList;
 import java.lang.NullPointerException;
 import java.io.File;

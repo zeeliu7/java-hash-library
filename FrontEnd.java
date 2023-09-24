@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Zhonghao Liu
-// Email: zliu882@wisc.edu
-// Notes to Grader: This is the only front end program
-
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.lang.Exception;

@@ -1,8 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Zhonghao Liu
-// Email: zliu882@wisc.edu
-// Notes to Grader: this is the interface for Map
-
 import java.util.NoSuchElementException;
 
 /**
