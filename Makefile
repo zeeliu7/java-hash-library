@@ -18,12 +18,6 @@ Map.class: Map.java
 run: FrontEnd.class Book.class CollectionOfBooks.class KVPair.class MapInterface.class Map.class
 	java FrontEnd
 
-# Run tester
-LibraryTester.class: LibraryTester.java
-	javac -cp .:junit5.jar LibraryTester.java
-test: LibraryTester.class FrontEnd.class Book.class CollectionOfBooks.class KVPair.class MapInterface.class Map.class
-	java -jar junit5.jar -cp . --scan-classpath --include-classname="LibraryTester"
-
 # Clean
 clean:
 	rm *.class
