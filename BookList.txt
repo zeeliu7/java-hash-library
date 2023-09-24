@@ -1,0 +1,36 @@
+Introductory to Java
+John Doe
+UW Press
+200
+Java programming for beginners
+---
+Introductory to Java
+Jane Doe
+Bucky Press
+300
+Learn how to program with Java
+---
+Introductory to Python
+John Doe
+Wisc Press
+150
+Python programming for beginners
+---
+Learning C++
+Jimmy Doe
+UW Press
+400
+Introductory lessons for C++
+---
+Advanced Java
+Jane Doe
+Wisc Press
+350
+Java programming for advanced programmers
+---
+Advanced Java
+Jimmy Doe
+Bucky Press
+450
+Advanced lessons for experienced Java programmers
+---
